@@ -1,0 +1,17 @@
+.mountain {
+    padding-top: 20px;
+    background-image: url(../../assets/images/mountain2.jpeg);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    color: rgb(56, 56, 56);
+}
+
+.MountainText {
+    width: 300px;
+    text-align: center;
+    font-size: 12px;
+}

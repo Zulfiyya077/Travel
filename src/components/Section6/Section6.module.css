@@ -1,0 +1,35 @@
+.park {
+	height: 200vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 30px;
+	
+}
+
+.btn {
+	width: 120px;
+	border: 1px solid rgb(94, 94, 94);
+}
+
+.park ul {
+	display: flex;
+	flex-direction: column;
+	gap: 80px;
+	justify-content: center;
+	align-items: center;
+}
+.park ul li {
+	display: grid;
+	gap: 100px;
+	width: 60%;
+	font-size: 14px;
+	
+}
+.activity {
+	font-weight: 700;
+}
+.about {
+	color: rgb(121, 120, 120);
+}

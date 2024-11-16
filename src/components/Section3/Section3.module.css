@@ -1,0 +1,57 @@
+.bear {
+	background-color: #2d282c;
+	height: 150vh;
+	color: #6e6e6e;
+	display: flex;
+	justify-content: center;
+	padding: 100px;
+
+	position: relative;
+}
+
+.brownbutton {
+	background-color: #282528;
+	border: 1px solid white;
+	color: #6e6e6e;
+}
+
+.monkey {
+	display: grid;
+	gap: 10px;
+	padding: 50px 100px;
+
+	height: 300px;
+	width: 45%;
+	position: absolute;
+	left: 50px;
+	top: 130px;
+}
+
+.bearpic {
+	position: absolute;
+	top: 0px;
+	right: 180px;
+}
+.bearpic img {
+	border-radius: 48%;
+	box-shadow: #252225 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+		rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+		rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.yelloman {
+	display: flex;
+	position: absolute;
+	bottom: 150px;
+	left: 30%;
+}
+
+.yellotext {
+	background-color: #1b171a;
+	padding: 50px;
+	width: 30%;
+	display: grid;
+}
+
+h5 {
+	color: rgb(27, 102, 163);
+}

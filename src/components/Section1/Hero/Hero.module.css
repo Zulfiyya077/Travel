@@ -1,0 +1,47 @@
+.manCamp {
+	display: flex;
+    flex-direction: column;
+    gap: 100px;
+	justify-content: center;
+	align-items: center;
+	background-image: url(../../../assets/images/man-camping-in-nature-and-watching-stars-free-photo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 110vh;
+    position: relative;
+}
+
+h1,
+p {
+	color: rgb(255, 255, 255);
+	display: flex;
+	justify-content: center;
+    width: 450px;
+    
+}
+
+p{
+    font-size: small;
+    width: 350px;
+    text-align: center;
+}
+button {
+	background-color: white;
+	color: black;
+	width: 150px;
+	height: 35px;
+	outline: none;
+	border: none;
+	border-radius: 30px;
+    
+}
+
+.discover{
+position: absolute;
+bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+	justify-content: center;
+	align-items: center;
+}

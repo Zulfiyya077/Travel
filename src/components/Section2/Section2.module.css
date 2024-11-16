@@ -1,0 +1,22 @@
+.Embark {
+ display: flex;
+ color: rgb(126, 126, 126);
+ background-color: #0B0E16;
+ height: 100vh;
+ padding: 120px 150px 10px;
+}
+.twopic{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+.twopic img {
+    width: 130px;
+}
+
+.left {
+    width: 50%;
+    padding: 10px;
+    
+}
+

@@ -1,0 +1,21 @@
+.footer{
+    background-color: rgb(219, 238, 252);
+    color:rgb(41, 40, 40);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.sosial {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}

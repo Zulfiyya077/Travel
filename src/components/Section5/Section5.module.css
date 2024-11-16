@@ -1,0 +1,16 @@
+.man {
+    background-image: url(../../assets/images/man.jpeg);
+    background-size:cover;
+    height: 100vh;
+    position: relative;
+
+}
+
+.manText{
+    color:rgb(185, 185, 185);
+    position: absolute;
+    bottom: 150px;
+    width: 350px;
+    left: 150px;
+    font-size: 14px;
+}
